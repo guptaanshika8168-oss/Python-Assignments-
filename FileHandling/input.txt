@@ -2,4 +2,4 @@ Python is easy to learn.
 File handling is important.
 We can read data from files.
 We can write data into files.
-Python is very useful.
+Python is easy to learn
