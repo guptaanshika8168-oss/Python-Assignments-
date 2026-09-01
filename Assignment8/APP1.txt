@@ -1,0 +1,5 @@
+Hello, my name is Anshika.
+I am learning Python.
+This is my file handling assignment.
+I am learning how to read and write files.
+Python is easy to learn.
