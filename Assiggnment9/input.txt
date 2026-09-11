@@ -1,0 +1,5 @@
+Python is easy to learn.
+I am learning Python programming.
+Python is used for data science.
+C++ is also a programming language.
+I like Python.
