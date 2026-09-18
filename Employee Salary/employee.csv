@@ -1,0 +1,9 @@
+Employee ID,Name,Department,Monthly Salary
+101,Rahul,IT,60000
+102,Priya,HR,45000
+103,Amit,Finance,55000
+104,Neha,IT,40000
+105,Rohan,Marketing,75000
+
+with open("employees.csv", "r") as file:
+    reader = csv.DictReader(file)
