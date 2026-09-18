@@ -1,0 +1,47 @@
+[
+    {
+        "Roll Number": 101,
+        "Name": "Rahul",
+        "Branch": "CSE",
+        "Marks": [
+            85,
+            78,
+            92,
+            88,
+            90
+        ],
+        "Total Marks": 433,
+        "Percentage": 86.6,
+        "Grade": "A"
+    },
+    {
+        "Roll Number": 102,
+        "Name": "Priya",
+        "Branch": "ECE",
+        "Marks": [
+            75,
+            82,
+            79,
+            85,
+            80
+        ],
+        "Total Marks": 401,
+        "Percentage": 80.2,
+        "Grade": "A"
+    },
+    {
+        "Roll Number": 103,
+        "Name": "Amit",
+        "Branch": "IT",
+        "Marks": [
+            65,
+            70,
+            68,
+            72,
+            75
+        ],
+        "Total Marks": 350,
+        "Percentage": 70.0,
+        "Grade": "B"
+    }
+]
